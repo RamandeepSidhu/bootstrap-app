@@ -193,7 +193,7 @@ a.more {
   position: absolute;
   width: 255px;
   height: 217px;
-  background-image: url("../dots-light.svg");
+  /* background-image: url("../dots-light.svg"); */
   background-size: contain;
   background-repeat: no-repeat;
   right: -100px;
@@ -351,7 +351,7 @@ a.more {
   content: "";
   width: 255px;
   height: 217px;
-  background-image: url("../dots-yellow.svg");
+  /* background-image: url("../dots-yellow.svg"); */
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transform: translate(-40%, -40%);
@@ -405,7 +405,7 @@ a.more {
   content: "";
   width: 255px;
   height: 217px;
-  background-image: url("../dots-green.svg");
+  /* background-image: url("../dots-green.svg"); */
   background-size: contain;
   background-repeat: no-repeat;
   -webkit-transform: translate(-40%, -40%);
